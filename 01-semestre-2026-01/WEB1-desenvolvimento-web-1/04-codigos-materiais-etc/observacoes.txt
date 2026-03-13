@@ -1,0 +1,14 @@
+alt + setinha do teclado para cima ou baixa: muda a linha
+ctrl + d : Selecionar um palavra e depois ir selecionando as outras automáticas
+Arrastar palavra : pode selecionar e puxar
+c + enter no visual studio: atalho para comentário
+! + enter = Estrutura html automática no visual studio
+
+<a href=""></a> se for para mesma pagina, é so por o nome da pagina, exemplo android.html
+<a href="http://www.google.com" target="Se dar ctrl + espaço dentro de algo, abre auto completar">
+
+tag*4 = cria a quantidade que você quiser daquela tag
+
+para voltar de dentro de uma pasta é "../" que volta uma pasta = caminho relativo
+caminho absoluto pode dar problema quando mudar de computador
+
