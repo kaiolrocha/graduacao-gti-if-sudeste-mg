@@ -1,0 +1,39 @@
+
+obs: respondendo esses exercicios outro dia porque faltei a aula.
+
+Exercício 1: O Robô Carteiro
+
+4.  SE a escada está na esquerda = Virar Esquerda SE NÃO Virar Direita
+5.  Andar Frente
+6.  Subir Andar
+7.  Subir Andar
+8.  Andar Frente
+9.  Virar Direita
+10. Andar Frente
+10. Andar Frente
+11. Tocar Campainha
+12. Entregar encomenda.
+
+"Um algoritmo inteligente não apenas executa, ele verifica se o objetivo foi atingido." 
+#então deu ruim kk
+
+
+Exercício 2: Controle da Caixa d’Água
+
+Capacidade Máxima: 1000L | Mínima: 200L.
+
+nivel_agua = 800l
+gasto_agua = ?
+
+nivel_agua = nivel_agua - gasto_agua
+
+1.  CHECAR nivel_agua
+2.  ENQUANTO nivel_agua <= 1000l E >= 200 não faça nada.
+3.  SE nivel_agua < 200l ligue a bomba
+4.  SE nivel_agua >= 1000l desligue a bomba
+5.  loop(exercicio2)
+
+
+
+
+

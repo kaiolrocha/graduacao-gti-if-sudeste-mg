@@ -1,0 +1,3 @@
+Esquema Conceitual Modelo ER - Aprender, depende de SGBD, falso, não depende. <- projeto conceitual
+
+MER especifica "QUAIS" dados seram armazenados, e não como.

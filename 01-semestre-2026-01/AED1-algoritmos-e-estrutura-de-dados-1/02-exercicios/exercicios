@@ -1,0 +1,24 @@
+obs: respondendo esses exercicios outro dia porque faltei a aula.
+Exercício 1: O Robô Carteiro
+1.  Andar Frente
+2.  Tocar Campainha
+3.  Andar Frente
+4.  SE a escada está na esquerda = Virar Esquerda SE NÃO Virar Direita
+5.  Andar Frente
+6.  Subir Andar
+7.  Subir Andar
+8.  Andar Frente
+9.  SE apartamento 302 está na esquerda = Virar Esquerda SE NÃO Virar Direita
+10. Andar Frente
+11. Tocar Campainha
+12. Entregar encomenda.
+
+Exercício 2: Controle da Caixa d’Água
+Entrada: 800l (exemplo)
+Capacidade Máxima: 1000L | Mínima: 200L.
+nivel_agua = Entrada - gasto_agua
+
+1.  SE nivel_agua < 200l ligue a bomba
+2.  SE nivel_agua = 1000l desligue a bomba
+3.  ENQUANTO nivel_agua =< 1000l E => 200 não faça nada.
+

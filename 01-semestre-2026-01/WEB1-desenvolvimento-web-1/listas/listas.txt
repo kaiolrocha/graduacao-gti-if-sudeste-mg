@@ -1,0 +1,14 @@
+alt + setinha do teclado para cima ou baixa: muda a linha
+ctrl + d : Selecionar um palavra e depois ir selecionando as outras automáticas
+Arrastar palavra : pode selecionar e puxar
+
+<a href=""></a> se for para mesma pagina, é so por o nome da pagina, exemplo android.html
+<a href="http://www.google.com" target="Se dar ctrl + espaço dentro de algo, abre auto completar">
+
+c + enter no visual studio: atalho para comentário
+
+li*4: li é exemplo para * algo cria a quantidade que você quiser
+exemplo escrevendo isso sairia isso:
+<li></li>
+<li></li>
+<li></li>
